@@ -12,10 +12,11 @@ const Success = () => (
     <img className="App-gif" src={kisses} alt="Kisses" />
     {/* Personalized success messages */}
     <p className="App-text-success">
-      I love youu :)
+      yay :)
     </p>
     <p className="App-text-success">
       I'm glad to have a girl like you, Lisa
+  happy valentines day ml
     </p>
     {/* Displaying the date of the special moment */}
     <p className="App-text-date">14.02.26</p>
